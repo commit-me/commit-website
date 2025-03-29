@@ -12,7 +12,7 @@ const Footer = () => (
           loading="eager"
           width={20}
           quality={95}
-          formats={["auto", "webp", "avif"]}
+          formats={["auto", "webp"]}
           alt="commit-m Logo"
         />
       </Link>
